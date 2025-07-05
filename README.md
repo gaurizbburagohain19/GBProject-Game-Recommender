@@ -17,4 +17,4 @@
 Paste an game title (e.g., `Grand Theft Auto V`) and get similar recommendations instantly!
 
 Example output:
-![image]()
+![image](https://github.com/gaurizbburagohain19/GBProject-Game-Recommender/blob/3d6bfd9e1b3450b00b65bf48f223f81a93a0eabe/game_recommender%20ss.png)
