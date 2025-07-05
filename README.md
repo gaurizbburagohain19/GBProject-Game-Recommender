@@ -1,9 +1,9 @@
 # Game Recommendation System
 
-## A machine learning-based Game Recommendation System designed to suggest video games based on content similarity and user preferences. The system leverages natural language processing and similarity algorithms to provide relevant game suggestions from a large dataset
+### A machine learning-based Game Recommendation System designed to suggest video games based on content similarity and user preferences. The system leverages natural language processing and similarity algorithms to provide relevant game suggestions from a large dataset
 ---
 
-## Features
+# Features
 
 - Data Handling: Uses **Pandas** and **NumPy** for data cleaning, transformation, and analysis of game metadata.
 - Text Processing: Implements NLTK's **Snowball Stemmer** to normalize text data such as game tags and descriptions, improving matching consistency.
