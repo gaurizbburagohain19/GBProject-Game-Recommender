@@ -11,4 +11,10 @@
 - Employs **cosine similarity** and **K-Nearest Neighbors (KNN)** from **scikit-learn** to identify and rank similar games.
 - Integrates **FuzzyWuzzy** for fuzzy string matching, allowing flexibility in user input and handling of partial or misspelled titles.
 - Recommendation Logic: Combines text vectorization, fuzzy matching, and similarity scoring to generate a ranked list of recommended games based on a selected title or preference.
+---
+## Demo
 
+Paste an game title (e.g., `Grand Theft Auto V`) and get similar recommendations instantly!
+
+Example output:
+![image]()
