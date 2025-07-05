@@ -1,6 +1,6 @@
 # Game Recommendation System
 
-A machine learning-based Game Recommendation System designed to suggest video games based on content similarity and user preferences. The system leverages natural language processing and similarity algorithms to provide relevant game suggestions from a large dataset
+## A machine learning-based Game Recommendation System designed to suggest video games based on content similarity and user preferences. The system leverages natural language processing and similarity algorithms to provide relevant game suggestions from a large dataset
 ---
 
 ## Features
